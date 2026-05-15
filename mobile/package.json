@@ -1,0 +1,9 @@
+{
+  "name": "servigo-mobile-runner",
+  "private": true,
+  "scripts": {
+    "start": "flutter run -d chrome",
+    "android": "flutter run -d android",
+    "pub:get": "flutter pub get"
+  }
+}
